@@ -1,0 +1,9 @@
+Building Bitultimate
+
+See doc/readme-qt.rst for instructions on building Bitultimate-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitultimate.
+
+See doc/build-*.txt for instructions on building bitultimated,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitultimate.
